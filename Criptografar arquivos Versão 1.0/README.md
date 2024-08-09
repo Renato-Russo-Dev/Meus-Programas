@@ -7,4 +7,6 @@ A criptografia é realizada usando o algoritmo AES em modo GCM, com uma chave qu
 
 Fiz esse progama pra inicalmente criptografar um arquivo de texto comum do bloco de notas (.txt) e penso futuramente em extender as opções pra que eu possa conseguir criptografar outros tipos de arquivos e de diversos tamanhos.
 
+Para funcionar é necessário que você tenha esse pacote instalado no seu Pyhton.
 
+    pip install cryptography
